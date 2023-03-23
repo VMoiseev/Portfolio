@@ -4,4 +4,4 @@
 4. Основы Javascript
 5. Базовый JavaScript в браузере
 6. Продвинутый JavaScript  -  [Retro Game](https://github.com/VMoiseev/js-advanced-diploma_)
-7. Продвинутый JavaScript в браузере
+
