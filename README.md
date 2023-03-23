@@ -1,7 +1,7 @@
-1. [HTML-вёрстка: с нуля до первого макета]()
-2. [Адаптивная и мобильная верстка]()
-3. [Основы программирования]()
-4. [Основы Javascript]()
-5. [Базовый JavaScript в браузере]()
-6. [Продвинутый JavaScript](https://github.com/VMoiseev/js-advanced-diploma_)
-7. [Продвинутый JavaScript в браузере]()
+1. HTML-вёрстка: с нуля до первого макета
+2. Адаптивная и мобильная верстка
+3. Основы программирования
+4. Основы Javascript
+5. Базовый JavaScript в браузере
+6. Продвинутый JavaScript  -  [Retro Game](https://github.com/VMoiseev/js-advanced-diploma_)
+7. Продвинутый JavaScript в браузере
