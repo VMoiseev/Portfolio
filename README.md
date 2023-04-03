@@ -4,4 +4,4 @@
 4. Основы Javascript - [Соединение интерфейса взаимодействия с АPI (бэкендом, где проходят операции с пользователями и денежными средствами), и интерфейса взаимодействия с DOM (графическим интерфейсом, который вы видите в браузере)](https://github.com/VMoiseev/bjs-diplom)
 5. Основы JavaScript в браузере  -  [Реализация JavaScript логики приложения для управления финансами](https://github.com/VMoiseev/bhj-diplom)
 6. Продвинутый JavaScript  -  [Retro Game](https://github.com/VMoiseev/js-advanced-diploma_)
-
+7. React (в данный момент прохожу обучение)
